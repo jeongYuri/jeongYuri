@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋🤗&animation=twinkling&fontSize=30&fontAlignY=35&fontAlign=50&height=200)
-[![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri&include_all_commits=true&show_icons=true&theme=onedark&count_private=true)](https://github.com/jeongYuri/github-readme-stats)
+[![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri&include_all_commits=true&show_icons=true&theme=onedark&count_private=true)](https://github.com/jeongYuri/jeongYuri/github-readme-stats)
