@@ -1,6 +1,9 @@
 <!-- Header Image -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋🤗&animation=twinkling&fontSize=30&fontAlignY=35&fontAlign=50&height=200)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />
+  <span>Welcome to My GitHub</span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />
+</p>
 <!-- Tech Stacks Section -->
 <div align="center">
   <h1>🖥️ Tech Stacks 🖥️</h1>
