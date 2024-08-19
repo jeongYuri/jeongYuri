@@ -1,12 +1,12 @@
 <!-- Header Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />
-  <span>Welcome to My GitHub</span>
+  <h1>Welcome to My GitHub<h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />
 </p>
 <!-- Tech Stacks Section -->
 <div align="center">
-  <h1>🖥️ Tech Stacks 🖥️</h1>
+  <span>🖥️ Tech Stacks 🖥️</span>
   <p><strong>Mainly Use</strong></p>
   <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
