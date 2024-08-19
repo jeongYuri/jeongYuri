@@ -7,7 +7,9 @@
 
 <!-- Tech Stacks Section -->
 <div align="center">
-  <h2>🖥️ Tech Stacks 🖥️</h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="25" height="25" />
+  <strong>Tech Stacks<strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="25" height="25" />
   <p><strong>Mainly Use</strong></p>
   <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
