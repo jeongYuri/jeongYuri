@@ -1,17 +1,17 @@
 <!-- Welcome Section -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="30" height="30" />
-  <strong style="font-size: 2em;">Welcome to My GitHub</strong>
+  <strong style="font-size: 2em; margin: 0 10px;">Welcome to My GitHub</strong>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="30" height="30" />
 </p>
 
-<hr style="border: 1px solid #eee;"/>
+<hr style="border: 1px solid #eee; margin: 20px 0;"/>
 
 <!-- Tech Stacks Section -->
-<div align="center">
+<div align="center" style="max-width: 800px; margin: 0 auto;">
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="30" height="30" />
-    <strong style="font-size: 2em; color: #333;">Tech Stacks</strong>
+    <strong style="font-size: 2em; color: #333; margin: 0 10px;">Tech Stacks</strong>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="30" height="30" />
   </p>
   
