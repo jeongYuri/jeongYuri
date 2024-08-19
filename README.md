@@ -11,12 +11,14 @@
 <div align="center">
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="30" height="30" />
-    <strong style="font-size: 1.5em;">Tech Stacks</strong>
+    <strong style="font-size: 2em; color: #333;">Tech Stacks</strong>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="30" height="30" />
   </p>
   
-  <div>
-    <p><strong>Mainly Use</strong></p>
+  <hr style="border: 1px solid #ddd; width: 80%; margin: 20px auto;"/>
+  
+  <div style="margin-bottom: 20px;">
+    <p><strong style="font-size: 1.2em; color: #555;">Mainly Use</strong></p>
     <div>
       <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -26,7 +28,7 @@
   </div>
   
   <div>
-    <p><strong>Can Do</strong></p>
+    <p><strong style="font-size: 1.2em; color: #555;">Can Do</strong></p>
     <div>
       <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
       <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
