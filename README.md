@@ -39,9 +39,4 @@
 
 <hr style="border: 1px solid #ddd; margin: 25px 0;"/>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://em-content.zobj.net/source/microsoft/365/globe-showing-asia-australia_1f30f.png" alt="Globe" width="30" height="30" />
-  <strong>Happy Coding!</strong>
-  <img src="https://em-content.zobj.net/source/microsoft/365/globe-showing-asia-australia_1f30f.png" alt="Globe" width="30" height="30" />
-</p>
+
