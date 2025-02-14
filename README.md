@@ -41,7 +41,7 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="30" height="30" />
-  <strong style="font-size: 1.3em; color: #444;">Happy Coding!</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="30" height="30" />
+  <img src="https://em-content.zobj.net/source/microsoft/365/globe-showing-asia-australia_1f30f.png" alt="Globe" width="30" height="30" />
+  <strong>Happy Coding!</strong>
+  <img src="https://em-content.zobj.net/source/microsoft/365/globe-showing-asia-australia_1f30f.png" alt="Globe" width="30" height="30" />
 </p>
