@@ -5,10 +5,6 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="40" height="40" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=6A5ACD&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;AI+and+Big+Data+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>
-
 <hr style="border: 1px solid #ddd; margin: 20px 0;"/>
 
 <!-- Tech Stacks Section -->
