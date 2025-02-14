@@ -5,11 +5,6 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="35" height="35" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" alt="GitHub Stars" />
-</p>
-
 <hr style="border: 1px solid #ddd; margin: 20px 0;"/>
 
 <!-- Tech Stacks Section -->
