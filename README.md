@@ -45,9 +45,9 @@
   <p>
     <strong style="font-size: 1.3em; color: #555;">📊 GitHub Stats</strong>
   </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeongYuri&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeongYuri&theme=radical" alt="GitHub Streak" width="450" />
 </div>
 
 <!-- Contact Me -->
